@@ -1,0 +1,17 @@
+p{ 
+	font-family: Constantia, "Georgia, serif;" 
+}
+.naslov{
+    color: orange;
+    font-weight: bold;
+    font-variant: small-caps;
+}
+h1{
+	color: blue;
+	text-align: center;
+    font-family: Arial, sans-serif; 
+}
+.lezec{
+    font-style: italic;
+    line-gap-override: 1;
+}

@@ -1,0 +1,24 @@
+p {
+ font-family: Georgia, serif;
+ color: dimgray;
+ text-align: justify;
+}
+h1, h2 {
+    font-family: Trebuchet MS, Verdana, sans-serif;
+}
+h1 {
+    color: red;
+    text-align: center;
+}
+h2 {
+    color: rgba(85,150,250,1.00);
+}
+pre {
+    color: green;
+    
+}
+.abundalakaka {
+    color: orange;
+    font-style: italic;
+}
+.zgornji-rob { border-top: 1px solid #C0C0C0 }
