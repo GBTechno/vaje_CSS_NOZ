@@ -1,0 +1,42 @@
+body {
+    background-image: url(./slike/ozadje.jpg);
+    background-repeat: no-repeat;
+    background-position: right top;
+    font-family: "Open Sans", sans-serif;
+}
+h1 {
+    color: #ff0000;
+}
+.podnaslov {
+    border-bottom: 1px dashed #606060;
+    font-variant: small-caps;
+    font-weight: bold;
+}
+a {
+    text-decoration: none;
+    margin-left: 3px;
+    padding-left: 15px;
+}
+a:link { 
+    color: #008000;
+    text-decoration: none;
+}
+a:visited {
+    color: #9a9a9a;
+    text-decoration: none;
+}
+a:hover {
+    color: #ff6600;
+    text-decoration: underline;
+    background-image: url(./slike/oznaka.png);
+    background-position: left;
+    background-repeat: no-repeat;
+}
+a:active {
+    color: #ff6600;
+    text-decoration: underline;
+    font-weight: bold;
+    background-image: url(./slike/oznaka.png);
+    background-position: left;
+    background-repeat: no-repeat;
+}

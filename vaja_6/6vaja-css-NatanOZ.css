@@ -1,0 +1,58 @@
+body {
+    background-image: url("Slike/ozadje.png");
+}
+p, div {
+    font-family: Segoe, "Trebuchet MS", sans-serif;
+    color: #444;
+    font-size: 90%;
+}
+h1 {
+    font-family: "Lucida Grande", Verdana, sans-serif;
+    color: red;
+    font-size: 180%;
+}
+div {
+    color: #4b63f0;
+    padding-top: 10px;
+}
+.zgornji_podnaslov {
+    font-weight: bold;
+}
+.okvir {
+    background-color: #8ea1f8;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+.enacbe {
+    font-family: "Courier New", Monaco, monospace;
+    color: #fb6466;
+    padding-left: 30px;
+    padding-right: 30px;
+    font-size: 110%;
+}
+.oznake {
+    font-family: "Courier New", Monaco, monospace;
+    color: #fb6466;
+    padding-left: 3px;
+    padding-right: 3px;
+    font-size: 110%;
+}
+.podcrtana_nagnjena {
+    font-style: italic;
+    color: #aaa;
+    border-bottom: 1px dashed #bbb;
+}
+.poudarjena {
+    font-weight: bolder;
+    color: black;
+}
+.siv_odstavek {color: #929292;}
+.address {
+    color: #969696;
+    font-size: 70%;
+    border-top: solid #969696 1px;
+    margin-top: 10px;
+    padding-top: 5px;
+}

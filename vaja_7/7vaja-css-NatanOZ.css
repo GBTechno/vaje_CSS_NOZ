@@ -1,0 +1,71 @@
+body {
+    font-family: "Open Sans", sans-serif;
+}
+h1 {
+    color: orangered;
+}
+p {
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+}
+.neurejeni_seznam {
+    margin-top: 5px;
+    padding-top: 0px;
+}
+.alineja3 {
+    padding-top: 25px;
+}
+.okvir1 {
+    color: #a06700;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 0px;
+    margin-right: 0px;
+    padding-top: 10px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    background-color: #e90;
+}
+.okvir2 {
+    color: #a06700;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding-top: 5px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    background-color: #f4bb55;
+}
+.okvir3 {
+    
+    color: #a06700;
+    margin-top: 5px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    padding-top: 10px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    background-color: #f9ddaa;
+}
+.okvir4 {
+    
+    color: orangered;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding-top: 10px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    background-color: #fff;
+}
+.bessedilo {
+    color: orangered;
+    font-family: "Courier New", monospace;
+}
