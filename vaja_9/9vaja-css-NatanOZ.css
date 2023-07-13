@@ -1,0 +1,21 @@
+body {
+  margin: 20px;
+  font-family: "Open Sans", sans-serif;
+  text-align: justify;
+  border-spacing: 130%;
+}
+h1 {
+  color: #996600;
+}
+.oznaka {
+  color: grey;
+  font-family: Consolas, "Courier New", monospace;
+  font-style: italic;
+}
+#img1 {
+  float: right;
+  margin-top: 5px;
+  margin-right: 0px;
+  margin-bottom: 5px;
+  margin-left: 10px;
+}
